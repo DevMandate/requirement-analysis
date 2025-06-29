@@ -173,6 +173,14 @@ A **Use Case Diagram** is a visual representation of the interactions between us
 
 ---
 
+## 🧾 Use Case Diagrams
+
+### What is a Use Case Diagram?
+
+A **Use Case Diagram** is a visual representation of the interactions between users (actors) and a system. It shows the various ways users can interact with the system and helps communicate **functional requirements** clearly and efficiently.
+
+---
+
 ### 🎯 Benefits of Use Case Diagrams
 
 - Simplifies complex functionality into visual interactions
@@ -187,16 +195,4 @@ A **Use Case Diagram** is a visual representation of the interactions between us
 Below is a use case diagram for a simple booking system. It outlines how different actors interact with the system:
 
 ![Booking System Use Case Diagram](alx-booking-uc.png)
-
-**Actors:**
-- **User** – makes and manages bookings
-- **Admin** – manages services, users, and system availability
-
-**Use Cases:**
-- Create Booking
-- View Booking
-- Cancel Booking
-- Receive Confirmation
-- Add/Remove Services (Admin)
-- View All Bookings (Admin)
 
