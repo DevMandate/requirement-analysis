@@ -78,3 +78,47 @@ A well-structured requirement document can act as a checklist for developers and
 ---
 
 By investing time in requirement analysis, teams lay a strong foundation for **delivering software that is useful, usable, and successful.**
+
+
+## 🧩 Key Activities in Requirement Analysis
+
+Effective requirement analysis involves a structured set of activities to ensure that the software solution meets stakeholder expectations and business goals. Below are the five key activities involved in this process:
+
+---
+
+- **📥 Requirement Gathering**  
+  Collecting raw data and information from stakeholders such as clients, users, and domain experts. This helps identify the core needs, expectations, and constraints.
+
+  *Example:* Interviewing users to understand how they currently complete a task manually.
+
+---
+
+- **🧠 Requirement Elicitation**  
+  Engaging stakeholders using techniques such as interviews, surveys, brainstorming sessions, or observation to uncover hidden or unspoken needs.
+
+  *Example:* Hosting a focus group with users to uncover pain points that aren’t mentioned in formal documentation.
+
+---
+
+- **📝 Requirement Documentation**  
+  Structuring and recording the gathered and elicited information in clear, concise formats such as Software Requirement Specifications (SRS), user stories, or use cases.
+
+  *Example:* Creating a formal SRS document that outlines all user and system requirements for the development team.
+
+---
+
+- **📊 Requirement Analysis and Modeling**  
+  Breaking down, analyzing, and organizing requirements to identify relationships, conflicts, priorities, and feasibility. This may include creating models like data flow diagrams, user personas, or process flows.
+
+  *Example:* Building a user journey map to visualize how users interact with the system.
+
+---
+
+- **✅ Requirement Validation**  
+  Ensuring that documented requirements are complete, clear, consistent, and aligned with stakeholder goals. This step often includes reviews, walkthroughs, and approval sessions.
+
+  *Example:* Conducting a review meeting with stakeholders to validate the final SRS before development begins.
+
+---
+
+By systematically carrying out these activities, teams ensure that requirements are accurate, relevant, and actionable—leading to successful software development outcomes.
