@@ -196,3 +196,39 @@ Below is a use case diagram for a simple booking system. It outlines how differe
 
 ![Booking System Use Case Diagram](alx-booking-uc.png)
 
+
+## ✅ Acceptance Criteria
+
+### What is Acceptance Criteria?
+
+**Acceptance Criteria** are a set of predefined conditions that a software product must meet to be accepted by a user, customer, or other stakeholders. They are written from the end-user’s perspective and serve as a guideline for developers, testers, and product owners to understand what "done" means for a specific feature or user story.
+
+---
+
+### 🔍 Importance of Acceptance Criteria in Requirement Analysis
+
+- **Clarifies Requirements:** It ensures that the development team clearly understands the scope and expectations for each feature.
+- **Defines Done:** Acceptance criteria act as a measurable definition of when a feature is considered complete and ready for release.
+- **Supports Testing:** They provide the foundation for test cases and validation steps.
+- **Reduces Ambiguity:** They prevent miscommunication and scope creep by explicitly outlining what the feature must do.
+
+---
+
+### 🧾 Example: Acceptance Criteria for Checkout Feature (Booking System)
+
+**Feature:** User can complete a checkout after selecting a service and time slot.
+
+**Acceptance Criteria:**
+- ✅ User must be logged in to proceed to checkout.
+- ✅ System must display a summary of the selected service, time, and cost.
+- ✅ User must be able to choose a payment method (e.g., card, M-Pesa, wallet).
+- ✅ If payment is successful, the booking is saved and a confirmation message is shown.
+- ✅ A confirmation email must be sent to the user upon successful booking.
+- ✅ If payment fails, an error message is displayed and booking is not saved.
+
+These criteria ensure the feature is working as intended and meets both **functional expectations** and **user satisfaction**.
+
+---
+
+Establishing clear acceptance criteria helps all team members stay aligned and focused, improving software quality and delivery confidence.
+
