@@ -122,3 +122,44 @@ Effective requirement analysis involves a structured set of activities to ensure
 ---
 
 By systematically carrying out these activities, teams ensure that requirements are accurate, relevant, and actionable—leading to successful software development outcomes.
+
+
+## 📂 Types of Requirements
+
+In software development, requirements are generally classified into two main categories: **Functional Requirements** and **Non-functional Requirements**. Both are essential for delivering a successful and user-centered product.
+
+---
+
+### ⚙️ Functional Requirements
+
+**Definition:**  
+Functional requirements define what the system **should do**. They describe specific behaviors, features, and functions of the system from the user’s perspective.
+
+**Examples for a Booking Management System:**
+- Users can create new bookings by selecting a service, date, and time.
+- The system sends a confirmation email to the user after a booking is made.
+- Admins can add, update, or delete available services from the system.
+- Users can cancel or reschedule bookings through their account dashboard.
+- The system prevents double-booking for the same time slot and service.
+
+Functional requirements are the backbone of the system’s core logic and help guide the development of the UI, backend, and user workflows.
+
+---
+
+### 🧪 Non-functional Requirements
+
+**Definition:**  
+Non-functional requirements describe **how the system should perform**. They cover system qualities such as performance, usability, reliability, and security.
+
+**Examples for a Booking Management System:**
+- The booking confirmation page should load within 2 seconds.
+- The system should be available 99.9% of the time during working hours.
+- Users should be able to access the platform on both mobile and desktop devices.
+- All user data must be encrypted and stored securely.
+- The system should support up to 10,000 concurrent users without crashing.
+
+Non-functional requirements ensure that the system is efficient, reliable, and pleasant to use—contributing to a high-quality user experience.
+
+---
+
+Both functional and non-functional requirements must be addressed to build a system that is not only **correct** but also **usable, secure, and scalable**.
